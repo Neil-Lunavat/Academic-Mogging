@@ -16,13 +16,6 @@ You feel the most resistance when you're trying to start a task than to carry on
 
 5. Deeply understand your reasons for actions in every field. Why and what will happen if you don't do that.
 
-Why guitar  
-Why singing  
-Why badminton  
-Why gym  
-Why self improvement  
-Why study
-
 ---
 
 ## Studying techniques:
