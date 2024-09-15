@@ -70,7 +70,7 @@ Focus on building portfolio, not just grades. Grades don't differentiate you.
 | Sem1 | Linear Algebra and Univariate Calculus [link1](https://www.youtube.com/@BhagwanSinghVishwakarma) | CPPS               | DECO [link1](https://www.youtube.com/watch?v=M0mx8S05v60&list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm) | Eng Chem [link1](https://www.youtube.com/@chemistrybydr.anjalissaxena) [link2](https://www.youtube.com/watch?v=I_ALnsSg7ak&list=PLx570L2_MXXKWH8YczsUDrchch0d6RHZC) | -                                                                                                               | BST      |
 | Sem2 | Multivariate Calculus and Discrete Math [link2](https://www.youtube.com/@gajendrapurohit)        | OOP and CPPS Lab 2 | -                                                                                                 | -                                                                                                                                                                   | Eng Phy [link1](https://www.youtube.com/@TechnicalPhysics) [link2](https://www.youtube.com/@Lastmomenttuitions) | BST      |
 
-[Aptitude](https://www.youtube.com/watch?v=DBgZYD0Ptlg&list=PL0s3O6GgLL5fyU5FerWY5OcYEY6DFe6fK)
+[Aptitude Test](https://www.youtube.com/watch?v=DBgZYD0Ptlg&list=PL0s3O6GgLL5fyU5FerWY5OcYEY6DFe6fK)
 
 ## Practice Questions
 
@@ -78,19 +78,19 @@ Focus on building portfolio, not just grades. Grades don't differentiate you.
 best youtube resource: https://www.youtube.com/watch?v=XCZakSI-M0I&list=PLLf6O8XdGj03gLo6znlqJbMzgIgt8tSU1
 
 Questions to practice before class or test:
-https://www.studocu.com/in/document/andhra-university/chemistry/important-questions-and-answers/48121902
-https://www.brainkart.com/article/Important-Questions-and-Answers--Water-Technology_6795/
+https://www.studocu.com/in/document/andhra-university/chemistry/important-questions-and-answers/48121902  
+https://www.brainkart.com/article/Important-Questions-and-Answers--Water-Technology_6795/  
 https://www.scribd.com/document/130119211/Engineering-Chemistry
 
 ---
 
 ## How to study difficult subjects fast. ([link](https://www.youtube.com/watch?v=AX9mLvpr4gg))
 
-1> Learn in cycles. Pick the easiest concept to learn and climb up.
-2> Space your reviewing at increasing intervals over time to improve retention.
-3> Use lateral thinking when hitting a road block. Different ways to solve a problem.
-4> "If you don't use what you learnt, it's like you never learned anything to start with"
-5> Try to think about all the possible dimensions of the newly learned concept. Ask why how when where what to everything.
+1. Learn in cycles. Pick the easiest concept to learn and climb up.
+2. Space your reviewing at increasing intervals over time to improve retention.
+3. Use lateral thinking when hitting a road block. Different ways to solve a problem.
+4. "If you don't use what you learnt, it's like you never learned anything to start with"
+5. Try to think about all the possible dimensions of the newly learned concept. Ask why how when where what to everything.
 
 ---
 
@@ -100,5 +100,5 @@ https://www.scribd.com/document/130119211/Engineering-Chemistry
 -   Time management
 -   Discipline and motivation
 
-How to activate all these? Systems.
+How to activate all these? Systems.  
 ![](image-3.png)
